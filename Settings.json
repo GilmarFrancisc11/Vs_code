@@ -1,0 +1,19 @@
+json
+{
+  // Inicia o Visual Studio Code sem abrir automaticamente nenhum arquivo na interface
+  "workbench.startupEditor": "none",
+  
+  // Define a seleção da sugestão do IntelliSense para a primeira opção
+  "editor.suggestSelection": "first",
+  
+  // Atraso antes de exibir sugestões do IntelliSense (em milissegundos)
+  "editor.quickSuggestionsDelay": 100,
+  
+  // Tamanho da fonte das sugestões do IntelliSense
+  "editor.suggestFontSize": 18,
+  
+  // Número máximo de itens exibidos nas sugestões do IntelliSense
+  "editor.suggest.maxVisibleSuggestions": 20
+}
+```
+
